@@ -1,2 +1,2 @@
 # y-a-n-n.github.io
-yann.software
+[yann.software](https://yann.software)
